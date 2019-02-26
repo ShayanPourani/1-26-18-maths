@@ -1,0 +1,14 @@
+{
+  "name": "http-server",
+  "version": "0.0.1",
+  "description": "A basic HTTP server example app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "4.4.5"
+  },
+  "license": "MIT"
+}
